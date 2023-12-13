@@ -1,0 +1,10 @@
+Package: P3
+Title: Project 3 - R Package Website
+Version: 0.0.0.1
+Author: Michael Ramirez
+Maintainer: Michael Ramirez <mramir34@jhu.edu>
+Description: Package includes basic functions for simple math problems.
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3

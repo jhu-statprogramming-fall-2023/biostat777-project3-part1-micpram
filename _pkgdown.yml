@@ -1,0 +1,32 @@
+url: ~
+template:
+  bootstrap: 5
+  bootswatch: yeti
+  bslib:
+    pkgdown-nav-height: 100px
+    code_font: {google: "Oswald"}
+    primary: "#12120b"
+home:
+  sidebar:
+    structure: [links, license, authors, toc]
+    components:
+      custom:
+        title: Vignette contributor
+        text: Michael Ramirez
+footer:
+  structure:
+    left: [text]
+    right: built_with
+  components:
+    text: Website designed by Michael Ramirez
+
+navbar:
+  structure:
+    left:  [articles, reference]
+    right: [search]
+
+
+
+
+
+
