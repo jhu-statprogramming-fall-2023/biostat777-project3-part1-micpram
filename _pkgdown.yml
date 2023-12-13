@@ -1,0 +1,21 @@
+url: ~
+template:
+  bootstrap: 5
+  bslib:
+    bg: "#fcfcf5"
+    fg: "#12120b"
+    primary: "#3a0be3"
+
+navbar:
+  title: "R Package"
+  left:
+  - text: "Package Overiew & Examples"
+    href: overview.html
+    title: "Overview & Examples"
+    output: html_document
+  - text: "List of Functions"
+    href: functions.html
+
+output:
+  pkgdown::html_package:
+
