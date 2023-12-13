@@ -1,9 +1,6 @@
 ## Project2 Package
 
 ### Website basics
-
-- Package source: 
-- Package website: 
 - Customized `pkgdown` components:
   - Changed the website theme to `morph` and navigation bar height to 100 pixels.
   - Added table of contents to the side bar.
